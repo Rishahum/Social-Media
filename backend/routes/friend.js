@@ -1,4 +1,3 @@
-// routes/friend.js
 const express = require('express');
 const {
     sendFriendRequest,
